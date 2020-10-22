@@ -5,6 +5,8 @@ public class ItemToPurchase {
 		// TODO Auto-generated method stub
 		String variable;
 		int abd;
+		int c;
+		int abc;
 	}
 
 }
